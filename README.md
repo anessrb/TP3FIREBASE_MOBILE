@@ -1,16 +1,29 @@
-# quizfirebase
+# Quiz App - Flutter & Firebase
 
-A new Flutter project.
+Une application mobile de quiz développée avec Flutter et Firebase.
 
-## Getting Started
+## Auteurs
+- Aness RABIA
+- Ibrahim HARCHA
 
-This project is a starting point for a Flutter application.
+## Technologies
+- Flutter 3.19.0
+- Firebase
+- Dart SDK 3.3.0
 
-A few resources to get you started if this is your first Flutter project:
+## Fonctionnalités
+- Authentification utilisateur
+- Création/participation aux quiz
+- Upload d'images
+- Effets sonores
+- Stockage cloud
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
+```bash
+git clone https://github.com/anessrb/TP3FIREBASE_MOBILE
+cd TP3FIREBASE_MOBILE
+flutter pub get
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Démo
+[Voir la démo sur YouTube](https://www.youtube.com/watch?v=IT6GPua0btc)
